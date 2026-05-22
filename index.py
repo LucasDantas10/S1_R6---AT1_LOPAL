@@ -1,6 +1,7 @@
 import math
 x = float(input("Digite o número: "))
 y = float(input("Digite o segundo número: "))
+#Potencia
 print(math.pow(x, y))
 #Raiz quadrada
 print(math.sqrt(36))
